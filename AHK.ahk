@@ -1,3 +1,8 @@
+; [18 Février 2018] Samnang Suon
+; En tant qu'un utilisateur de AHK, 
+; je veux avoir la capacité d'utiliser mon script dans une autre machine
+; car je veux avoir mes hotkeys et mes hotstrings comme si j'étais sur mon ordinateur.
+
 ; https://autohotkey.com/docs/Hotkeys.htm
 ; ^ = Ctrl
 ; ! = Alt
